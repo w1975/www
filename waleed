@@ -1,0 +1,1474 @@
+<html lange<html lang="en-US" class="js no-applicationcache geolocation history postmessage svg websockets localstorage sessionstorage websqldatabase webworkers hashchange audio canvas canvastext video webgl cssgradients multiplebgs opacity rgba inlinesvg csspositionsticky hsla supports svgclippaths smil fontface generatedcontent textshadow indexeddb indexeddb-deletedatabase cssanimations backgroundsize borderimage borderradius boxshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox flexboxlegacy cssreflections csstransforms csstransforms3d csstransitions js_active  vc_desktop  vc_transform  vc_transform " style="scroll-behavior: auto;"><head>
+<meta charset="UTF-8">
+ <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-164152340-1&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//www.googletagmanager.com/gtag/js?id=UA-164152340-1"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="https://cdn.speakol.com/pixel/js/sppixel.min.js?t=1612656000000"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1339818/tfa.js" id="tb_tfa_script"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-612015441&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5777DRW"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/549321859355154?v=2.9.33&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-575049698"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-575049698'); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><link rel="alternate" hreflang="ar" href="https://egfwd.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9/?lang=ar">
+<link rel="alternate" hreflang="en" href="https://egfwd.com/web/">
+
+<script>
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '549321859355154' );			fbq('track', 'PageView');
+
+			</script>
+<noscript><img height="1" width="1" style="display:none"
+			src="https://www.facebook.com/tr?id=549321859355154&ev=PageView&noscript=1"
+			/></noscript>
+
+
+
+<title>Web - Egypt FWD</title>
+<meta name="description" content="Web specialization track is an opportunity to develop your programming skills gradually through a fully integrated and stackable learning journey.">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://egfwd.com/web/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="We Specialization - fwd">
+<meta property="og:description" content="The Web is one of the Future Work is Digital (fwd) specializations powered by ITIDA under Digital Egypt Initiative is an online tech learning and freelancing upskilling scholarship program through Udacity's online learning and community platform.">
+<meta property="og:url" content="http://egfwd.com/web/">
+<meta property="og:site_name" content="Egypt FWD">
+<meta property="article:modified_time" content="2021-01-15T09:47:20+00:00">
+<meta property="og:image" content="https://egfwd.com/wp-content/uploads/2020/04/Web-Sub-logo.png">
+<meta property="og:image:width" content="4000">
+<meta property="og:image:height" content="4000">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="We Specialization - fwd">
+<meta name="twitter:description" content="The Web is one of the Future Work is Digital (fwd) specializations powered by ITIDA under Digital Egypt Initiative is an online tech learning and freelancing upskilling scholarship program through Udacity's online learning and community platform.">
+<meta name="twitter:image" content="https://egfwd.com/wp-content/uploads/2020/04/Web-Sub-logo.png">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://egfwd.com/#website","url":"https://egfwd.com/","name":"Egypt FWD","description":"Future Work is Digital Initiative","potentialAction":[{"@type":"SearchAction","target":"https://egfwd.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"http://egfwd.com/web/#webpage","url":"http://egfwd.com/web/","name":"Web - Egypt FWD","isPartOf":{"@id":"https://egfwd.com/#website"},"datePublished":"2020-09-10T08:51:00+00:00","dateModified":"2021-01-15T09:47:20+00:00","description":"Web specialization track is an opportunity to develop your programming skills gradually through a fully integrated and stackable learning journey.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://egfwd.com/web/"]}]}]}</script>
+
+<script type="text/javascript">console.log('PixelYourSite Free version 7.1.13');</script>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Egypt FWD » Feed" href="https://egfwd.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Egypt FWD » Comments Feed" href="https://egfwd.com/comments/feed/">
+
+<script type="text/javascript" data-cfasync="false">
+    (window.gaDevIds=window.gaDevIds||[]).push("dZGIzZG");
+	var mi_version         = '7.15.1';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-164152340-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-164152340-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/egfwd.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://egfwd.com/wp-includes/js/wp-emoji-release.min.js?ver=5.5.3" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://egfwd.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://egfwd.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="menu-image-css" href="https://egfwd.com/wp-content/plugins/menu-image/includes/css/menu-image.css?ver=2.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://egfwd.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.2" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="salient-social-css" href="https://egfwd.com/wp-content/plugins/salient-social/css/style.css?ver=1.1" type="text/css" media="all">
+<style id="salient-social-inline-css" type="text/css">
+
+  .sharing-default-minimal .nectar-love.loved,
+  body .nectar-social[data-color-override="override"].fixed > a:before, 
+  body .nectar-social[data-color-override="override"].fixed .nectar-social-inner a,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:hover {
+    background-color: #85c779;
+  }
+  .nectar-social.hover .nectar-love.loved,
+  .nectar-social.hover > .nectar-love-button a:hover,
+  .nectar-social[data-color-override="override"].hover > div a:hover,
+  #single-below-header .nectar-social[data-color-override="override"].hover > div a:hover,
+  .nectar-social[data-color-override="override"].hover .share-btn:hover,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a {
+    border-color: #85c779;
+  }
+  #single-below-header .nectar-social.hover .nectar-love.loved i,
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover,
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover i,
+  #single-below-header .nectar-social.hover .nectar-love-button a:hover i,
+  .nectar-love:hover i,
+  .hover .nectar-love:hover .total_loves,
+  .nectar-love.loved i,
+  .nectar-social.hover .nectar-love.loved .total_loves,
+  .nectar-social.hover .share-btn:hover, 
+  .nectar-social[data-color-override="override"].hover .nectar-social-inner a:hover,
+  .nectar-social[data-color-override="override"].hover > div:hover span,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) i,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) {
+    color: #85c779;
+  }
+</style>
+<link rel="stylesheet" id="wpml-menu-item-0-css" href="//egfwd.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="monsterinsights-popular-posts-style-css" href="https://egfwd.com/wp-content/plugins/google-analytics-for-wordpress/assets/css/frontend.min.css?ver=7.15.1" type="text/css" media="all">
+<link rel="stylesheet" id="if-menu-site-css-css" href="https://egfwd.com/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=5.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://egfwd.com/wp-content/themes/salient/css/font-awesome.min.css?ver=4.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="salient-grid-system-css" href="https://egfwd.com/wp-content/themes/salient/css/grid-system.css?ver=11.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="main-styles-css" href="https://egfwd.com/wp-content/themes/salient/css/style.css?ver=11.0.4" type="text/css" media="all">
+<style id="main-styles-inline-css" type="text/css">
+html body[data-header-resize="1"] .container-wrap, html body[data-header-resize="0"] .container-wrap, body[data-header-format="left-header"][data-header-resize="0"] .container-wrap { padding-top: 0; }
+</style>
+<link rel="stylesheet" id="nectar-ocm-slide-out-right-hover-css" href="https://egfwd.com/wp-content/themes/salient/css/off-canvas/slide-out-right-hover.css?ver=11.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="nectar-element-flip-box-css" href="https://egfwd.com/wp-content/themes/salient/css/elements/element-flip-box.css?ver=11.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="nectar-element-wpb-column-border-css" href="https://egfwd.com/wp-content/themes/salient/css/elements/element-wpb-column-border.css?ver=11.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="fancyBox-css" href="https://egfwd.com/wp-content/themes/salient/css/plugins/jquery.fancybox.css?ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="nectar_default_font_open_sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="https://egfwd.com/wp-content/themes/salient/css/responsive.css?ver=11.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css" href="https://egfwd.com/wp-content/themes/salient/css/plugins/select2.css?ver=6.2" type="text/css" media="all">
+<link rel="stylesheet" id="skin-material-css" href="https://egfwd.com/wp-content/themes/salient/css/skin-material.css?ver=11.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="nectar-widget-posts-css" href="https://egfwd.com/wp-content/themes/salient/css/elements/widget-nectar-posts.css?ver=11.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://egfwd.com/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css?ver=6.1" type="text/css" media="all">
+<link rel="stylesheet" id="dynamic-css-css" href="https://egfwd.com/wp-content/themes/salient/css/salient-dynamic-styles.css?ver=36944" type="text/css" media="all">
+<style id="dynamic-css-inline-css" type="text/css">
+#header-space{background-color:#ffffff}@media only screen and (min-width:1000px){body #ajax-content-wrap.no-scroll{min-height:calc(100vh - 90px);height:calc(100vh - 90px)!important;}}@media only screen and (min-width:1000px){#page-header-wrap.fullscreen-header,#page-header-wrap.fullscreen-header #page-header-bg,html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header,.nectar_fullscreen_zoom_recent_projects,#nectar_fullscreen_rows:not(.afterLoaded) > div{height:calc(100vh - 89px);}.wpb_row.vc_row-o-full-height.top-level,.wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 89px);}html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header{top:90px;}.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 88px)!important;}.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 88px - 32px)!important;}}
+</style>
+<link rel="stylesheet" id="redux-google-fonts-salient_redux-css" href="https://fonts.googleapis.com/css?family=Cairo%3A400&amp;ver=1610586362" type="text/css" media="all">
+<script type="text/javascript" id="monsterinsights-frontend-script-js-extra">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/egfwd.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.15.1" id="monsterinsights-frontend-script-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.0" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.2" id="revmin-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=5.5.3" id="jquery-bind-first-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3" id="js-cookie-js"></script>
+<script type="text/javascript" id="pys-js-extra">
+/* <![CDATA[ */
+var pysOptions = {"staticEvents":{"facebook":{"PageView":[{"params":{"eventID":"pv_1612611386"},"delay":0,"ids":[]}],"GeneralEvent":[{"params":{"post_type":"page","post_id":"2561","content_name":"Web"},"delay":0,"ids":[]}]}},"dynamicEventsParams":[],"dynamicEventsTriggers":[],"facebook":{"pixelIds":["549321859355154"],"advancedMatching":[],"removeMetadata":false,"contentParams":{"post_type":"page","post_id":2561,"content_name":"Web"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"serverApiEnabled":false,"wooCRSendFromServer":false},"ga":{"trackingIds":["UA-164152340-1"],"enhanceLinkAttr":false,"anonimizeIP":false,"commentEventEnabled":true,"commentEventNonInteractive":false,"downloadEnabled":true,"downloadEventNonInteractive":false,"formEventEnabled":true,"crossDomainEnabled":false,"crossDomainAcceptIncoming":false,"crossDomainDomains":[]},"debug":"1","siteUrl":"https:\/\/egfwd.com","ajaxUrl":"https:\/\/egfwd.com\/wp-admin\/admin-ajax.php","commonEventParams":{"domain":"egfwd.com","user_roles":"guest","plugin":"PixelYourSite"},"commentEventEnabled":"1","downloadEventEnabled":"1","downloadExtensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"formEventEnabled":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","ginger_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"woo":{"enabled":false,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","removeFromCartEnabled":true,"removeFromCartSelector":".cart .product-remove .remove"},"edd":{"enabled":false,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","removeFromCartEnabled":true}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=7.1.13" id="pys-js"></script>
+<link rel="https://api.w.org/" href="https://egfwd.com/wp-json/"><link rel="alternate" type="application/json" href="https://egfwd.com/wp-json/wp/v2/pages/2561"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://egfwd.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://egfwd.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 5.5.3">
+<link rel="shortlink" href="https://egfwd.com/?p=2561">
+<link rel="alternate" type="application/json+oembed" href="https://egfwd.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fegfwd.com%2Fweb%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://egfwd.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fegfwd.com%2Fweb%2F&amp;format=xml">
+<meta name="generator" content="WPML ver:4.3.12 stt:5,1;">
+
+<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+<script type="text/javascript"> var root = document.getElementsByTagName( "html" )[0]; root.setAttribute( "class", "js" ); </script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5777DRW');</script>
+
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-612015441"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-612015441');
+</script>
+
+
+<script type="text/javascript">
+  window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view', id: 1339818});
+  !function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/1339818/tfa.js',
+  'tb_tfa_script');
+</script>
+<noscript>
+  <img src='https://trc.taboola.com/1339818/log/3/unip?en=page_view'
+      width='0' height='0' style='display:none' />
+</noscript>
+
+
+<script>
+!function (e, s, t, a, n, p, i, o, c){
+e[n] || ((i = e[n] = function () {i.process ? i.process.apply(i, arguments) : i.queue.push(arguments)}).queue = [], i.t = 1 * new Date, (o = s.createElement(t)).async = 1,o.src = "https://cdn.speakol.com/pixel/js/sppixel.min.js?t=" + 864e5 * Math.ceil(new Date / 864e5),(c = s.getElementsByTagName(t)[0]).parentNode.insertBefore(o, c))}(window, document, "script", 0, "spix"),spix("init", "ID-6220"),spix("event", "pageload");
+</script>
+
+
+<script type="text/javascript">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+
+<script type="text/javascript">
+  fbq('init', '549321859355154', {}, {
+    "agent": "wordpress-5.5.3-2.2.0"
+});
+</script><script type="text/javascript">
+  fbq('track', 'PageView', []);
+</script>
+
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=549321859355154&ev=PageView&noscript=1" />
+</noscript>
+
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<meta name="generator" content="Powered by Slider Revolution 6.2.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<link rel="icon" href="https://egfwd.com/wp-content/uploads/2020/04/cropped-938756c6-de2d-4742-85b8-bd8f6b44052f-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://egfwd.com/wp-content/uploads/2020/04/cropped-938756c6-de2d-4742-85b8-bd8f6b44052f-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://egfwd.com/wp-content/uploads/2020/04/cropped-938756c6-de2d-4742-85b8-bd8f6b44052f-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://egfwd.com/wp-content/uploads/2020/04/cropped-938756c6-de2d-4742-85b8-bd8f6b44052f-270x270.jpg">
+<script type="text/javascript">function setREVStartSize(e){			
+			try {								
+				var pw = document.getElementById(e.c).parentNode.offsetWidth,
+					newh;
+				pw = pw===0 || isNaN(pw) ? window.innerWidth : pw;
+				e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+				e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+				e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+				e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+				e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+				e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+				e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+				if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+					newh = Math.max(e.mh,window.innerHeight);				
+				else{					
+					e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+					for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+					e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+					e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+					for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+										
+					var nl = new Array(e.rl.length),
+						ix = 0,						
+						sl;					
+					e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+					e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+					e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+					e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+					for (var i in e.rl) nl[i] = e.rl[i]<window.innerWidth ? 0 : e.rl[i];
+					sl = nl[0];									
+					for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+					var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+
+					newh =  (e.type==="carousel" && e.justify==="true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh);
+				}			
+				
+				if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+				document.getElementById(e.c).height = newh;
+				window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+			} catch(e){
+				console.log("Failure at Presize of Slider:" + e)
+			}					   
+		  };</script>
+<style type="text/css" id="wp-custom-css">
+			html body[data-header-resize="1"] .container-wrap {
+	padding-bottom: 0px !important;
+}
+
+body #footer-outer[data-cols="1"][data-disable-copyright="false"][data-copyright-line="false"][data-matching-section-color="true"] .row {
+	padding-bottom: 0px !important;
+}
+
+body #footer-outer[data-cols="1"][data-disable-copyright="false"] .row {
+	padding-top: 0px !important;
+}
+
+.nectar-fancy-box[data-style="color_box_hover"] .box-inner-wrap {
+	    padding: 5% 10% !important;
+}
+
+
+.nectar-flip-box .flip-box-back[data-text-color="dark"] {
+    color: #000000 !important;
+}
+
+body #footer-outer[data-cols="1"][data-disable-copyright="false"][data-copyright-line="false"][data-matching-section-color="true"] #copyright {
+	    padding-top: 25px !important;
+}
+
+#footer-outer[data-cols="1"][data-disable-copyright="false"] #copyright {
+	padding-bottom: 40px !important;
+}
+
+#header-outer[data-lhe="default"] #top nav > ul > li[class*="button_solid_color"] > a {
+	color: black !important;
+}
+
+#footer-outer #footer-widgets .col ul li:first-child >a {
+	 
+	   padding-left: 10px !important;
+    padding-right: 10px !important;
+    
+}
+
+
+#menu-item-626 {
+	background-color: #85c779;
+	
+	  border: 3px solid #000000 !important;
+    border-radius: 5px;
+	font-weight: bold;
+}
+
+
+#menu-item-1621 {
+	background-color: #85c779;
+	
+	  border: 3px solid #000000 !important;
+    border-radius: 5px;
+	font-weight: bold;
+}
+
+
+.img-with-aniamtion-wrap .hover-wrap {
+	    margin-bottom: 0px !important;
+}
+
+#header-outer .sf-menu li ul li a {
+	    font-size: 16px !important;
+	    line-height: 25px !important;
+}
+
+
+.nectar-video-box[data-color] a.nectar_video_lightbox.play_button_2 {
+	    border: 5px solid #000000 !important;
+}
+.nectar-video-box .nectar_video_lightbox path {
+	    fill: #000!important;
+	 
+}
+
+.wpb_wrapper >div {
+	margin-bottom: 0px !important;
+}
+
+body.material[data-button-style="default"] .nectar-button {
+	border: 5px solid #000;
+}
+
+body.material .nectar-button.large {
+	border: 3px solid #000 !important;
+}
+
+body.material .nectar-button.jumbo {
+	border: 3px solid #000 !important;
+}
+
+#footer-outer #footer-widgets .col ul li:first-child >a:hover {
+	color: #fff !important;
+}
+
+#footer-outer #footer-widgets .col ul li a {
+	font-size:16px !important;
+	line-height: 25px !important;
+}
+
+#header-outer[data-lhe="default"] #top nav > ul > li[class*="button_solid_color"] > a {
+	    text-transform: uppercase;
+	background-color: #85C779;
+}
+
+#header-outer .sf-menu li ul li a:hover {
+	color:#ff0000 !important;
+} 
+
+#menu-item-621 > a {
+	    border: 3px solid #000000;
+    border-radius: 8px;
+    padding: 10px !important;
+	font-weight: bold;
+}
+
+
+#menu-item-1613 > a {
+	    border: 3px solid #000000;
+    border-radius: 8px;
+    padding: 10px !important;
+	font-weight: bold;
+}
+
+#header-outer:not([data-format="left-header"]) #top nav > ul > li:not(.megamenu) ul li:first-child a:first-child:hover {
+	color: #ffdf6a !important;
+}
+
+#header-outer:not([data-format="left-header"]) #top nav > ul > li:not(.megamenu) ul li:nth-child(2) a:first-child:hover {
+	color: #4394d0 !important;
+}
+
+#header-outer:not([data-format="left-header"]) #top nav > ul > li:not(.megamenu) ul li:nth-child(3) a:first-child:hover {
+	color: #f05b66 !important;
+}
+
+div[data-style="minimal"] .toggle h3 a {
+	font-size: 20px !important;
+}
+
+#footer-outer #copyright p {
+	    direction: ltr;
+}
+
+.menu-image-title-after.menu-image-title {
+	display: none;
+}
+
+
+#header-outer[data-format="centered-menu"] #top .span_9 nav .sf-menu:not(.buttons) {
+	direction: ltr !important;
+	    padding-left: 35px;
+}
+
+.menu-image-title-after.menu-image-not-hovered img {
+	margin-top: 14px;
+}
+
+.nectar-split-heading[data-custom-font-size="true"] h1 {
+	line-height: 92px;
+}
+
+.nectar-split-heading[data-custom-font-size="true"] h2 {
+	line-height: 63px;
+}
+
+.nectar-flickity[data-controls="material_pagination"]:not(.masonry) .flickity-viewport {
+	margin: 20px 0 130px 0;
+}
+
+#menu-item-wpml-ls-3-en {
+	margin-right: 20px !important;
+}
+
+
+.nectar-icon-list-item .content {
+	color: #000000;
+}
+
+.row .nectar-icon-list .nectar-icon-list-item h4 {
+	    font-weight: 800 !important;
+	font-size: 20px;
+}
+
+.menu-image{
+	max-width: 150px !important;
+}		</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1610704038303{padding-top: 15px !important;padding-bottom: 15px !important;}.vc_custom_1600861829178{padding-top: 15px !important;padding-bottom: 15px !important;}.vc_custom_1592906389641{padding-top: 15px !important;padding-bottom: 15px !important;}.vc_custom_1600004583110{padding-top: 15px !important;padding-bottom: 15px !important;}.vc_custom_1610640348431{padding-top: 15px !important;padding-bottom: 15px !important;}.vc_custom_1610639859034{padding-top: 15px !important;padding-bottom: 15px !important;}.vc_custom_1590058386556{padding-bottom: 20px !important;}.vc_custom_1590011808034{padding-bottom: 20px !important;}.vc_custom_1587475244339{margin-bottom: 10px !important;}.vc_custom_1587459583224{background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/575049698/?random=1612611653231&amp;cv=9&amp;fst=1612611653231&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa1r0&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fegfwd.com%2Fweb%2F%3Futm_source%3Dsendgrid%26utm_medium%3Demail%26utm_campaign%3Dweb-FWD&amp;ref=https%3A%2F%2Fegfwd.com%2Fenroll-now%2F&amp;tiba=Web%20-%20Egypt%20FWD&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/612015441/?random=1612611653298&amp;cv=9&amp;fst=1612611653298&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa1r0&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fegfwd.com%2Fweb%2F%3Futm_source%3Dsendgrid%26utm_medium%3Demail%26utm_campaign%3Dweb-FWD&amp;ref=https%3A%2F%2Fegfwd.com%2Fenroll-now%2F&amp;tiba=Web%20-%20Egypt%20FWD&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><style>:focus{outline:0}::-moz-focus-inner{border:0;}</style><style type="text/css" id="column-bg-colors">.wpb_column.instance-14 > .vc_column-inner > .column-bg-overlay-wrap  > .column-bg-overlay { background-color:#ffdf6a;  opacity: 1; }.wpb_column.instance-14:hover  > .vc_column-inner > .column-bg-overlay-wrap  > .column-bg-overlay { background-color: #ffffff!important; opacity: 1!important; }.wpb_column.instance-15 > .vc_column-inner > .column-bg-overlay-wrap  > .column-bg-overlay { background-color:#ffdf6a;  opacity: 1; }.wpb_column.instance-15:hover  > .vc_column-inner > .column-bg-overlay-wrap  > .column-bg-overlay { background-color: #ffffff!important; opacity: 1!important; }.wpb_column.instance-16 > .vc_column-inner > .column-bg-overlay-wrap  > .column-bg-overlay { background-color:#ffdf6a;  opacity: 1; }.wpb_column.instance-16:hover  > .vc_column-inner > .column-bg-overlay-wrap  > .column-bg-overlay { background-color: #ffffff!important; opacity: 1!important; }</style><meta http-equiv="origin-trial" content="AxL6K+7uLMunmYb1wpp/pnDPBsoQgMGPaTDkE6HIAKvHNoXilVyfzrIZM9q7OUqMUDJCYgIlFmJcvooS3kGjowMAAACOeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGVhZHNlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjE0MTI0Nzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script src="https://www.googleadservices.com/pagead/conversion/612015441/?random=1612611668746&amp;cv=9&amp;fst=1612611668746&amp;num=1&amp;label=IWSiCOrY1PABENG66qMC&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=4&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa1r0&amp;sendb=1&amp;ig=1&amp;data=event%3Dconversion&amp;frm=0&amp;url=https%3A%2F%2Fegfwd.com%2Fweb%2F%3Futm_source%3Dsendgrid%26utm_medium%3Demail%26utm_campaign%3Dweb-FWD&amp;ref=https%3A%2F%2Fegfwd.com%2Fenroll-now%2F&amp;tiba=Web%20-%20Egypt%20FWD&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+<body class="page-template-default page page-id-2561 material wpb-js-composer js-comp-ver-6.1 vc_responsive mobile" data-footer-reveal="false" data-footer-reveal-shadow="none" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-dropdown-style="minimal" data-cae="easeOutQuart" data-cad="1500" data-megamenu-width="contained" data-aie="none" data-ls="fancybox" data-apte="standard" data-hhun="0" data-fancy-form-rcs="1" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="slightly_rounded_shadow" data-user-account-button="false" data-flex-cols="true" data-col-gap="40px" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right-hover" data-user-set-ocm="off" data-loading-animation="none" data-bg-header="false" data-responsive="1" data-ext-responsive="true" data-header-resize="0" data-header-color="custom" data-cart="false" data-remove-m-parallax="" data-remove-m-video-bgs="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false">
+<script type="text/javascript"> if(navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/)) { document.body.className += " using-mobile-browser "; } </script><div class="ocm-effect-wrap"><div class="ocm-effect-wrap-inner">
+<div id="header-space" data-header-mobile-fixed="1" style="height: 65px;"></div>
+<div id="header-outer" data-has-menu="true" data-has-buttons="no" data-using-pr-menu="true" data-mobile-fixed="1" data-ptnm="false" data-lhe="default" data-user-set-bg="#ffffff" data-format="centered-menu" data-permanent-transparent="false" data-megamenu-rt="0" data-remove-fixed="0" data-header-resize="0" data-cart="false" data-transparency-option="" data-box-shadow="none" data-shrink-num="6" data-using-secondary="0" data-using-logo="1" data-logo-height="70" data-m-logo-height="24" data-padding="10" data-full-width="false" data-condense="false" class="">
+<div id="search-outer" class="nectar">
+<div id="search">
+<div class="container">
+<div id="search-box">
+<div class="inner-wrap">
+<div class="col span_12">
+<form role="search" action="https://egfwd.com/" method="GET">
+<input type="text" name="s" value="" placeholder="Search">
+<span>Hit enter to search or ESC to close</span> </form>
+</div>
+</div>
+</div>
+<div id="close"><a href="#">
+<span class="close-wrap"> <span class="close-line close-line1"></span> <span class="close-line close-line2"></span> </span> </a></div>
+</div>
+</div>
+</div>
+<header id="top">
+<div class="container">
+<div class="row">
+<div class="col span_3">
+<a id="logo" href="https://egfwd.com" data-supplied-ml-starting-dark="false" data-supplied-ml-starting="false" data-supplied-ml="false">
+<img alt="Egypt FWD" data-srcset="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png 1x, https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png 2x" data-src="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png" class="stnd default-logo dark-version ls-is-cached lazyloaded" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png" srcset="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png 1x, https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png 2x"><noscript><img class="stnd default-logo dark-version" alt="Egypt FWD" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png" srcset="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png 1x, https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png 2x" /></noscript>
+</a>
+</div>
+<div class="col span_9 col_last">
+<div class="slide-out-widget-area-toggle mobile-icon slide-out-from-right-hover small" data-icon-animation="simple-transform">
+<div> <a href="#sidewidgetarea" aria-label="Navigation Menu" aria-expanded="false" class="closed">
+<span aria-hidden="true"> <i class="lines-button x2"> <i class="lines"></i> </i> </span>
+</a></div>
+</div>
+<nav style="display: none;">
+<ul class="sf-menu sf-js-enabled sf-arrows">
+<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page button_solid_color menu-item-621"><a href="https://egfwd.com/enroll-now/" data-ps2id-api="true">Enroll Now</a></li>
+<li id="menu-item-453" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children sf-with-ul menu-item-453"><a href="#" data-ps2id-api="true" class="sf-with-ul">Specializations<span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-2606" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2561 current_page_item menu-item-2606"><a href="https://egfwd.com/web/" aria-current="page" data-ps2id-api="true">Web</a></li>
+<li id="menu-item-2607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2607"><a href="https://egfwd.com/data/" data-ps2id-api="true">Data</a></li>
+<li id="menu-item-2608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2608"><a href="https://egfwd.com/digital-marketing/" data-ps2id-api="true">Digital Marketing</a></li>
+</ul>
+</li>
+<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://egfwd.com/about/" data-ps2id-api="true">About</a></li>
+<li id="menu-item-2824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2824"><a href="https://egfwd.com/experts/" data-ps2id-api="true">Experts</a></li>
+<li id="menu-item-3112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3112"><a href="https://egfwd.com/blog/" data-ps2id-api="true">Blog</a></li>
+<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="https://egfwd.com/faqs/" data-ps2id-api="true">FAQs</a></li>
+</ul>
+<ul class="buttons sf-menu" data-user-set-ocm="off">
+<li id="menu-item-wpml-ls-3-ar" class="menu-item wpml-ls-slot-3 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-3-ar"><a title="عربي" href="https://egfwd.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9/?lang=ar" data-ps2id-api="true"><span class="wpml-ls-native" lang="ar">عربي</span></a></li>
+<li id="menu-item-1702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1702"><a href="https://egfwd.com/" class="menu-image-title-after menu-image-not-hovered" data-ps2id-api="true"><img width="150" height="75" alt="" loading="lazy" data-src="https://egfwd.com/wp-content/uploads/2020/12/MCIT-New-Logo--e1609161843823.png" class="menu-image menu-image-title-after ls-is-cached lazyloaded" src="https://egfwd.com/wp-content/uploads/2020/12/MCIT-New-Logo--e1609161843823.png"><noscript><img width="150" height="75"   alt="" loading="lazy" data-src="https://egfwd.com/wp-content/uploads/2020/12/MCIT-New-Logo--e1609161843823.png" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="75" src="https://egfwd.com/wp-content/uploads/2020/12/MCIT-New-Logo--e1609161843823.png" class="menu-image menu-image-title-after" alt="" loading="lazy" /></noscript><span class="menu-image-title-after menu-image-title">#</span></a></li>
+</ul>
+</nav>
+<div class="logo-spacing" data-using-image="true"><img alt="Egypt FWD" data-src="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png" class="hidden-logo ls-is-cached lazyloaded" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png"><noscript><img class="hidden-logo" alt="Egypt FWD" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_header_logo_.png" /></noscript></div>
+</div>
+</div>
+</div>
+</header>
+<div class="bg-color-stripe"></div></div>
+<div id="ajax-content-wrap">
+<div class="container-wrap" style="padding-top: 0px;">
+<div class="container main-content">
+<div class="row">
+<div id="home" data-column-margin="default" data-midnight="dark" data-top-percent="4%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row top-level full-width-section standard_section  first-section loaded" style="padding-top: 25.72px; padding-bottom: 0px;"><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="true"><div class="inner-wrap using-image"><div class="row-bg using-image using-bg-color no-cover" style="background-image: url(https://egfwd.com/wp-content/uploads/2020/04/Pattern2-copy.png); background-position: left top; background-repeat: repeat; background-color: #ffdf6a; "></div></div><div class="row-bg-overlay" style="background-color:#ffdf6a;  opacity: 0.95; "></div></div><div class="col span_12 dark left">
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding instance-0" data-t-w-inherits="default" data-border-radius="5px" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap animated-in" data-bg-animation="zoom-out-reveal"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="img-with-aniamtion-wrap " data-max-width="100%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="grow-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none" style="transform: scale(1, 1); opacity: 1;">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy  animated-in" data-delay="0" height="92" width="139" data-animation="grow-in" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_1rsz_tracksartboard_32x.png" alt="">
+</div>
+</div>
+</div>
+</div><div id="fws_601e7f3a71d84" data-midnight="" data-column-margin="none" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row  vc_row-o-equal-height vc_row-flex  vc_row-o-content-bottom standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-8 wpb_column column_container vc_column_container col child_column no-extra-padding instance-1" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-split-heading markup-generated animated-in" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="false"><h2><span><span class="inner" style="transform: translate(0px, 0px);">Web</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">Specialization</span></span> </h2></div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-4 wpb_column column_container vc_column_container col child_column padding-1-percent instance-2" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-animated-title completed" data-style="color-strip-reveal" data-color="extra-color-3">
+<div class="nectar-animated-title-outer">
+<div class="nectar-animated-title-inner">
+<div class="wrap"><h6 style="color: #000000;">Free Scholarship</h6></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="divider-wrap" data-alignment="default"><div style="height: 10px;" class="divider"></div></div>
+<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp animated wpb_start_animation" style=" max-width: 650px; display: inline-block;">
+<div class="wpb_wrapper">
+<p style="line-height: 25px; text-align: justify;">The web specialization track is an opportunity to develop your programming skills gradually through a fully integrated and stackable learning journey. The program starts by introducing&nbsp;<b data-stringify-type="bold">Javascript concepts and slowly progressing towards React to become a front-end developer.</b></p>
+<p style="line-height: 25px; text-align: justify;">By enrolling in this track, you will gain comprehensive knowledge that will guarantee your success as a freelancer in the Web Development field. You will be fully capable of developing websites and web applications for clients while maintaining the flexibility of your work hours and control over the clients and projects you take on.</p>
+<p><strong>– Challenge Track:</strong>&nbsp;Enroll yourself in this track and start your learning today!<br>
+<strong>– Professional &amp; Advanced Tracks:</strong> Apply to be accepted into this competitive program to develop master-level skills and be part of Egypt’s thriving freelancing community.</p>
+</div>
+</div>
+<div id="fws_601e7f3a72233" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 5%; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column padding-3-percent instance-3" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<a class="nectar-button jumbo regular extra-color-3  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp regular-button _mPS2id-h animated mPS2id-clicked" style="color: rgb(0, 0, 0); visibility: visible;" href="#lvl" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Choose your track</span></a>
+</div>
+</div>
+</div>
+</div></div><div class="divider-wrap" data-alignment="default"><div style="height: 20px;" class="divider"></div></div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col has-animation no-extra-padding instance-4 animated-in" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="grow-in" data-delay="0" style="transform: scale(1, 1); opacity: 1;">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div id="fws_601e7f3a7253b" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column no-extra-padding instance-5" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="img-with-aniamtion-wrap " data-max-width="100%" data-max-width-mobile="default" data-border-radius="5px" data-shadow="none" data-animation="none">
+<div class="inner">
+ <div class="hover-wrap" data-hover-animation="none">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy  animated-in" data-delay="0" height="731" width="1000" data-animation="none" src="https://egfwd.com/wp-content/uploads/2020/04/dev-tocket.png" alt="" srcset="https://egfwd.com/wp-content/uploads/2020/04/dev-tocket.png 1000w, https://egfwd.com/wp-content/uploads/2020/04/dev-tocket-300x219.png 300w, https://egfwd.com/wp-content/uploads/2020/04/dev-tocket-768x561.png 768w" sizes="(min-width: 1450px) 75vw, (min-width: 1000px) 85vw, 100vw">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="home" data-column-margin="default" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="true"><div class="inner-wrap using-image"><div class="row-bg using-image using-bg-color no-cover" style="background-image: url(https://egfwd.com/wp-content/uploads/2020/04/Pattern2-copy.png); background-position: left top; background-repeat: repeat; background-color: #ffdf6a; "></div></div><div class="row-bg-overlay" style="background-color:#ffdf6a;  opacity: 0.95; "></div></div><div class="col span_12 dark left">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding instance-6" data-t-w-inherits="default" data-border-radius="5px" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap animated-in" data-bg-animation="zoom-out-reveal"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div id="fws_601e7f3a72b43" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 4%; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col child_column has-animation no-extra-padding instance-7 animated-in" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="400" style="opacity: 1; transform: translate(0px, 0px);">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-split-heading markup-generated animated-in" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="false"><h4><span><span class="inner" style="transform: translate(0px, 0px);">Learning</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">Outcomes</span></span> </h4></div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1610704038303">
+<div class="wpb_wrapper">
+<ul>
+<li><strong>Challenge Track:</strong>&nbsp;Learn HTML, CSS and WordPress. You will be able to start translating ideas into compelling websites</li>
+<li><strong>Professional Track:</strong>&nbsp;Learn advanced Javascript, Dom methods, and how to work with APIs. You will be able to add interactivity and different services to your website and make it more engaging and alive!</li>
+<li><strong>Advanced Track:</strong>&nbsp;Master&nbsp;building Web Apps using&nbsp;Javascript Build Tools, React fundamentals, as well as React &amp; Redux</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-3 wpb_column column_container vc_column_container col child_column has-animation no-extra-padding instance-8 one-fourths clear-both animated-in" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="600" style="opacity: 1; transform: translate(0px, 0px);">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-split-heading markup-generated animated-in" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="false"><h4><span><span class="inner" style="transform: translate(0px, 0px);">Duration</span></span> </h4></div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1600861829178">
+<div class="wpb_wrapper">
+<ul>
+<li><strong>Challenge Track:</strong> 8 weeks</li>
+<li><strong>Professional Track:</strong>&nbsp;2 months</li>
+<li><strong>Advanced Track:</strong>&nbsp;3 months</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-3 wpb_column column_container vc_column_container col child_column has-animation no-extra-padding instance-9 one-fourths right-edge animated-in" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in-from-bottom" data-delay="800" style="opacity: 1; transform: translate(0px, 0px);">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-split-heading markup-generated animated-in" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="false"><h4><span><span class="inner" style="transform: translate(0px, 0px);">Certification</span></span> </h4></div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1592906389641">
+<div class="wpb_wrapper">
+<ul>
+<li>Complete your tracks with industry-certified certifications provided by Udacity:</li>
+<li>Certification of Completion for Track 1</li>
+<li>Graduation Certificates for Track 2 and Track 3</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="lvl" data-column-margin="default" data-midnight="dark" data-top-percent="3%" data-bottom-percent="3%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section  _mPS2id-t" style="padding-top: 19.29px; padding-bottom: 19.29px;"><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="row-bg using-bg-color" style="background-color: #fcfcfc; "></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding instance-10" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div id="fws_601e7f3a73092" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-lg vc_hidden-md wpb_column column_container vc_column_container col child_column no-extra-padding instance-11" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="divider-wrap" data-alignment="default"><div style="height: 30px;" class="divider"></div></div>
+</div>
+</div>
+</div>
+</div></div><div id="fws_601e7f3a731cc" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column centered-text has-animation no-extra-padding instance-12 animated-in" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in" data-delay="0" style="opacity: 1;">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element " style=" max-width: 450px; display: inline-block;">
+<div class="wpb_wrapper">
+<p><span style="color: #999999;">Join the learning journey provided by</span></p>
+</div>
+</div>
+<div class="divider-wrap" data-alignment="default"><div style="height: 25px;" class="divider"></div></div><div class="img-with-aniamtion-wrap center" data-max-width="100%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="fade-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none" style="opacity: 1;">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy  animated-in" data-delay="0" height="56" width="313" data-animation="fade-in" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_1rsz_udacity-2-logo-svg-vector-3.png" alt="" srcset="https://egfwd.com/wp-content/uploads/2020/04/rsz_1rsz_udacity-2-logo-svg-vector-3.png 313w, https://egfwd.com/wp-content/uploads/2020/04/rsz_1rsz_udacity-2-logo-svg-vector-3-300x54.png 300w" sizes="(min-width: 1450px) 75vw, (min-width: 1000px) 85vw, 100vw">
+</div>
+</div>
+</div>
+</div><div class="divider-wrap" data-alignment="default"><div style="height: 25px;" class="divider"></div></div>
+<div class="wpb_text_column wpb_content_element " style=" max-width: 450px; display: inline-block;">
+<div class="wpb_wrapper">
+<p><span style="color: #999999;">Choose your track</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div id="fws_601e7f3a73677" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-lg vc_hidden-md wpb_column column_container vc_column_container col child_column no-extra-padding instance-13" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="divider-wrap" data-alignment="default"><div style="height: 30px;" class="divider"></div></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_601e7f3a7378e" data-column-margin="default" data-midnight="dark" data-bottom-percent="4%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section " style="padding-top: 0px; padding-bottom: 25.72px;"><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="row-bg using-bg-color" style="background-color: #fcfcfc; "></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
+<div style="" class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-4-percent instance-14" data-using-bg="true" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="true" data-border-animation-delay="" data-border-width="5px" data-border-style="solid" data-border-color="#000000" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffdf6a" data-bg-opacity="1" data-hover-bg="#ffffff" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner" style="border: 5px solid rgba(255,255,255,0); "><span class="border-wrap animation completed" style="border-color: #000000;"><span class="border-top"></span><span class="border-right"></span><span class="border-bottom"></span><span class="border-left"></span></span><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay" style="opacity: 1; background-color: #ffdf6a;"></div></div>
+<div class="wpb_wrapper">
+<div class="img-with-aniamtion-wrap " data-max-width="50%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="fade-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none" style="opacity: 1;">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy  animated-in" data-delay="0" height="70" width="70" data-animation="fade-in" src="https://egfwd.com/wp-content/uploads/2020/04/t-1.png" alt="">
+</div>
+</div>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1600004583110">
+<div class="wpb_wrapper">
+<h3>Challenge Track</h3>
+<h4>Requirements</h4>
+<ul>
+<li>Proficient in spoken and written English</li>
+<li>Basic computer skills</li>
+<li>No prior professional experience required</li>
+<li>Age from 18 years and above</li>
+</ul>
+<h4>Learning Outcomes</h4>
+<ul>
+<li><strong>HTML/CSS &amp; WordPress<br>
+</strong><span style="text-decoration: underline;">By the end of this part, you will be able to:</span><p></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create and style web components&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Position and display website elements</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Debug HTML and CSS code</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build a responsive website layout</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build a website using WordPress</span></li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="divider-wrap" data-alignment="default"><div style="height: 10px;" class="divider"></div></div>
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+
+<script>
+function gtag_report_conversion1(url) {
+
+jQuery('body').append('<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3085881&conversionId=3330444&fmt=gif" />');
+
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+    gtag('event', 'conversion', {
+      'send_to': 'AW-612015441/IWSiCOrY1PABENG66qMC',
+      'transaction_id': '',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+<a onclick="gtag_report_conversion1()" class="nectar-button large regular extra-color-1  regular-button" style="color: rgb(0, 0, 0); visibility: visible;" target="_blank" href="https://admissions.udacity.com/apply/nd001-mena-nfp1" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>ENROLL NOW</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="" class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-4-percent instance-15" data-using-bg="true" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="true" data-border-animation-delay="300" data-border-width="5px" data-border-style="solid" data-border-color="#000000" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffdf6a" data-bg-opacity="1" data-hover-bg="#ffffff" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner" style="border: 5px solid rgba(255,255,255,0); "><span class="border-wrap animation completed" style="border-color: #000000;"><span class="border-top"></span><span class="border-right"></span><span class="border-bottom"></span><span class="border-left"></span></span><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay" style="opacity: 1; background-color: #ffdf6a;"></div></div>
+<div class="wpb_wrapper">
+<div class="img-with-aniamtion-wrap " data-max-width="50%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="fade-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none" style="opacity: 1;">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy  animated-in" data-delay="0" height="70" width="70" data-animation="fade-in" src="https://egfwd.com/wp-content/uploads/2020/04/T2-copy-3.png" alt="">
+</div>
+</div>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1610640348431">
+<div class="wpb_wrapper">
+<h3>Professional Track</h3>
+<h4>Requirements</h4>
+<ul>
+<li>Proficient in spoken and written English</li>
+<li>Basic computer skills</li>
+<li>No prior professional experience required</li>
+<li>Knowledge in basic HTML, CSS, JavaScript and inspect websites using Developer Tools on a modern web browser (Chrome, Firefox, or Edge), debugging and troubleshoot errors and failures in JavaScript programs, and usage of Git for version control</li>
+<li>Age from 18 years and above</li>
+</ul>
+<h4>Learning Outcomes</h4>
+<ul class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list" data-indent="0">
+<li data-stringify-indent="0"><strong>Intro to JavaScript<br>
+</strong><span style="text-decoration: underline;">By the end of this part, you will be able to:</span><p></p>
+<ol class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list" data-indent="0">
+<li data-stringify-indent="0">Learn JavaScript Data Types</li>
+<li data-stringify-indent="0">Understand logic and control flow</li>
+<li data-stringify-indent="0">Learn how to write proper and correct JavaScript Syntax</li>
+</ol>
+</li>
+</ul>
+<ul class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list" data-indent="0">
+<li data-stringify-indent="0"><strong>Javascript and the DOM<br>
+</strong><span style="text-decoration: underline;">By the end of this part, you will be able to:</span><p></p>
+<ol class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list" data-indent="0">
+<li data-stringify-indent="0">Create web content using Javascript</li>
+<li data-stringify-indent="0">Modify web content using Javascript</li>
+<li data-stringify-indent="0">Manage website performance</li>
+</ol>
+</li>
+</ul>
+<ul class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list" data-indent="0">
+<li data-stringify-indent="0"><strong>Web APIs and Asynchronous Applications<br>
+</strong><span style="text-decoration: underline;">By the end of this part, you will be able to:</span><p></p>
+<ol class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list" data-indent="0">
+<li data-stringify-indent="0">Work with Node and Express to develop a web application</li>
+<li data-stringify-indent="0">Build a webserver</li>
+<li data-stringify-indent="0">Use promises to manage asynchronous Javascript</li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="divider-wrap" data-alignment="default"><div style="height: 62px;" class="divider"></div></div>
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+
+<script>
+function gtag_report_conversion2(url) {
+
+spix('event','lead');
+
+jQuery('body').append('<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3085881&conversionId=3330452&fmt=gif" />');
+
+_tfa.push({notify: 'event', name: 'Lead_Udacity', id: 1339818});
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-612015441/XciOCPy02_ABENG66qMC',
+      'transaction_id': '',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+<a onclick="gtag_report_conversion2();" class="nectar-button large regular extra-color-1  regular-button" style="color: rgb(0, 0, 0); visibility: visible;" target="_blank" href="https://admissions.udacity.com/apply/Web-T2-C10-FWD" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>APPLY NOW</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="" class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-4-percent instance-16" data-using-bg="true" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="true" data-border-animation-delay="600" data-border-width="5px" data-border-style="solid" data-border-color="#000000" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ffdf6a" data-bg-opacity="1" data-hover-bg="#ffffff" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner" style="border: 5px solid rgba(255,255,255,0); "><span class="border-wrap animation completed" style="border-color: #000000;"><span class="border-top"></span><span class="border-right"></span><span class="border-bottom"></span><span class="border-left"></span></span><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay" style="opacity: 1; background-color: #ffdf6a;"></div></div>
+<div class="wpb_wrapper">
+<div class="img-with-aniamtion-wrap " data-max-width="50%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="fade-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none" style="opacity: 1;">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy  animated-in" data-delay="0" height="70" width="70" data-animation="fade-in" src="https://egfwd.com/wp-content/uploads/2020/04/T3-copy.png" alt="">
+</div>
+</div>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1610639859034">
+<div class="wpb_wrapper">
+<h3>Advanced Track</h3>
+<h4>Requirements</h4>
+<ul>
+<li data-stringify-indent="0">Proficient in spoken and written English</li>
+<li data-stringify-indent="0">Basic computer skills</li>
+<li data-stringify-indent="0">No prior professional experience required.</li>
+<li data-stringify-indent="0">Knowledge in JavaScript and Asynchronous JavaScript, building front-end websites with HTML, CSS, JavaScript, and inspect websites using Developer Tools on a modern web browser (Chrome, Firefox, or Edge), debugging and troubleshoot errors and failures in JavaScript programs, and usage of Git for version control.</li>
+<li data-stringify-indent="0">Age from 18 years and above</li>
+</ul>
+<h4>Learning Outcomes</h4>
+<ul>
+<li>
+<div class="p-rich_text_section"><b data-stringify-type="bold">Build Tools &amp; Single Page Web Apps</b><br>
+<span style="text-decoration: underline;">By the end of this part, you will be able to:</span></div>
+<ol class="p-rich_text_list p-rich_text_list__ordered" data-stringify-type="ordered-list" data-indent="0">
+<li data-stringify-indent="0">Configure a WebPack file from scratch.</li>
+<li data-stringify-indent="0">Have good knowledge about JS tools and gain the ability to put these tools to make your work more automated.</li>
+<li data-stringify-indent="0">Learn the basics of SASS – A popular and very powerful CSS Preprocessor that can extend CSS functionality and make you write more efficient CSS code.</li>
+</ol>
+<div class="p-rich_text_section"><b data-stringify-type="bold">React Fundamentals</b><br>
+<span style="text-decoration: underline;">By the end of this part, you will be able to:</span></div>
+<ol class="p-rich_text_list p-rich_text_list__ordered" data-stringify-type="ordered-list" data-indent="0">
+<li data-stringify-indent="0">You will learn the foundational parts of the React ecosystem that are necessary to build production-ready apps.</li>
+<li data-stringify-indent="0">You will be able to create modular and custom components that can be reused all over your web application.</li>
+<li data-stringify-indent="0">You will understand the React State system – one of the key reasons why React gained huge popularity.</li>
+<li data-stringify-indent="0">You will get to know what React Routers are and how to create multiple routes on your web application, making it more dynamic.</li>
+<li data-stringify-indent="0">You will learn about React Lifecycle methods and how they are important for the performance and speed of your web app.</li>
+</ol>
+<div class="p-rich_text_section"><b data-stringify-type="bold">React &amp; Redux</b><br>
+<span style="text-decoration: underline;">By the end of this part, you will be able to:</span></div>
+<ol class="p-rich_text_list p-rich_text_list__ordered" data-stringify-type="ordered-list" data-indent="0">
+<li data-stringify-indent="0">You’ll learn techniques to make your web app state more predictable by moving your state to a central location and establishing strict rules for getting, listening, and updating that state.</li>
+<li data-stringify-indent="0">You will be able to abstract your application state and fully controlling it via Redux.</li>
+<li data-stringify-indent="0">You will learn how to create custom middleware and custom actions that automatically run when a trigger is activated.</li>
+<li data-stringify-indent="0">You will learn how to integrate Redux with React and make a far more complex web app thanks to the benefits of both React and Redux.</li>
+<li data-stringify-indent="0">You’ll learn to better abstract asynchronous events by creating your own custom Thunk middleware and adding it to your app central store.</li>
+</ol>
+</li>
+</ul>
+</div>
+</div>
+<div class="divider-wrap" data-alignment="default"><div style="height: 10px;" class="divider"></div></div>
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+
+<script>
+function gtag_report_conversion3(url) {
+
+spix('event','signup');
+
+jQuery('body').append('<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3085881&conversionId=3330452&fmt=gif" />');
+
+_tfa.push({notify: 'event', name: 'Lead_Udacity2', id: 1339818});
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-612015441/-T3mCO642_ABENG66qMC',
+      'transaction_id': '',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+<a onclick="gtag_report_conversion3()" class="nectar-button large regular extra-color-1  regular-button" style="color: rgb(0, 0, 0); visibility: visible;" target="_blank" href="https://admissions.udacity.com/apply/Web-T3-C9-FWD" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>APPLY NOW</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="built-by-riders" data-column-margin="default" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap using-image"><div class="row-bg using-image using-bg-color no-cover" style="background-image: url(https://egfwd.com/wp-content/uploads/2020/04/Pattern2-copy.png); background-position: left top; background-repeat: repeat; background-color: #ffdf6a; "></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col has-animation no-extra-padding instance-17" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div id="fws_601e7f3a7486f" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-lg vc_hidden-md wpb_column column_container vc_column_container col child_column no-extra-padding instance-18" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="divider-wrap" data-alignment="default"><div style="height: 30px;" class="divider"></div></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1590058386556">
+<div class="wpb_wrapper">
+<h2 style="line-height: 55px;"><b data-stringify-type="bold">Do you believe you have a wealth of knowledge to support students? Become a Guru with fwd today!</b></h2>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
+<div class="wpb_wrapper">
+<p>Gurus are technical advisors and mentors for students throughout their learning journey. This is an to give back to the ecosystem in this specialization by mentoring, supporting, and guiding students. The top Gurus have the chance to win an advanced-level Nanodegree such as AWS Cloud Architect or Blockchain Developer, and more!</p>
+</div>
+</div>
+<div id="fws_601e7f3a749ae" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 5%; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-sm vc_hidden-xs wpb_column column_container vc_column_container col child_column padding-3-percent instance-19" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<a class="nectar-button jumbo regular extra-color-3  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp regular-button animated" style="color: rgb(0, 0, 0); visibility: visible;" target="_blank" href="https://egfwd.com/coming-soon/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>READ MORE</span></a>
+</div>
+</div>
+</div>
+</div></div><div id="fws_601e7f3a74a9d" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 5%; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-lg vc_hidden-md wpb_column column_container vc_column_container col child_column padding-3-percent instance-20" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<a class="nectar-button large regular extra-color-3  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp regular-button animated" style="color: rgb(0, 0, 0); visibility: visible;" target="_blank" href="https://egfwd.com/coming-soon/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>READ MORE</span></a>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding instance-21" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar_cascading_images" data-border-radius="none" data-parallax="" data-parallax-intensity="subtle" data-animation-timing="800" style="max-width: 420px;"><div class="cascading-image" data-has-img="true" style=" padding:19%;" data-max-width="100%" data-max-width-mobile="100%" data-animation="fade-in-from-bottom" data-shadow="none"><div class="inner-wrap"><div class="bg-layer" data-scale="1.5" style="transform: scale(1.5)"><div style=" -webkit-transform:translateX(0%) translateY(0%) ; -ms-transform:translateX(0%) translateY(0%) ; transform:translateX(0%) translateY(0%) ;" class="img-wrap"> <img src="https://egfwd.com/wp-content/uploads/2020/05/guru.png" srcset="https://egfwd.com/wp-content/uploads/2020/05/guru.png 1200w, https://egfwd.com/wp-content/uploads/2020/05/guru-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/guru-1024x1024.png 1024w, https://egfwd.com/wp-content/uploads/2020/05/guru-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/guru-768x768.png 768w, https://egfwd.com/wp-content/uploads/2020/05/guru-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/guru-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/guru-500x500.png 500w, https://egfwd.com/wp-content/uploads/2020/05/guru-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/guru-1000x1000.png 1000w, https://egfwd.com/wp-content/uploads/2020/05/guru-800x800.png 800w, https://egfwd.com/wp-content/uploads/2020/05/guru-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/guru-36x36.png 36w" sizes="(min-width: 1000px) 55vw, 100vw" class="skip-lazy" alt=""> </div></div></div></div></div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_601e7f3a75093" data-column-margin="default" data-midnight="dark" data-top-percent="3%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content standard_section " style="padding-top: 19.29px; padding-bottom: 0px; left: 0px; margin-left: -112px; width: 643px; visibility: visible;"><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="row-bg" style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark center">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding instance-22" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div id="fws_601e7f3a751ee" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-lg vc_hidden-md wpb_column column_container vc_column_container col child_column no-extra-padding instance-23" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="divider-wrap" data-alignment="default"><div style="height: 30px;" class="divider"></div></div>
+</div>
+</div>
+</div>
+</div></div><div id="fws_601e7f3a752ae" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-lg vc_hidden-md wpb_column column_container vc_column_container col child_column padding-4-percent instance-24" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-split-heading markup-generated animated-in" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="false"><h3><span><span class="inner" style="transform: translate(0px, 0px);">COMPLETE</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">YOUR</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">TRACK</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">TO</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">GET</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">CERTIFIED</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">BY</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">UDACITY</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">TO</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">BOOST</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">YOUR</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">CAREER</span></span> </h3></div>
+</div>
+</div>
+</div>
+</div></div><div id="fws_601e7f3a753af" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-sm vc_hidden-xs wpb_column column_container vc_column_container col child_column no-extra-padding instance-25" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-split-heading markup-generated animated-in" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="true" style="font-size: 40px; line-height: 43.2px;"><h2><span><span class="inner" style="transform: translate(0px, 0px);">COMPLETE</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">YOUR</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">TRACK</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">TO</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">GET</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">CERTIFIED</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">BY</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">UDACITY</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">TO</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">BOOST</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">YOUR</span></span> <span><span class="inner" style="transform: translate(0px, 0px);">CAREER</span></span> </h2></div>
+</div>
+</div>
+</div>
+</div></div><div class="divider-wrap" data-alignment="default"><div style="height: 30px;" class="divider"></div></div>
+<div class="wpb_gallery wpb_content_element clearfix">
+<div class="wpb_wrapper"><div class="wpb_gallery_slidesflickity_style" data-onclick="link_image" data-interval="5"><div class="nectar-flickity not-initialized instance-0 flickity-enabled is-draggable" data-overflow="hidden" data-wrap="wrap" data-spacing="default" data-shadow="none" data-autoplay="true" data-autoplay-dur="5000" data-free-scroll="" data-controls="material_pagination" data-desktop-columns="3" data-small-desktop-columns="1" data-tablet-columns="1"><div class="flickity-viewport" style="height: 643px; touch-action: pan-y;"> <div class="flickity-slider" style="left: 0px; transform: translateX(-309%);"><div class="cell" data-lazy="false" aria-selected="false" style="position: absolute; left: 0%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-1.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-1.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-1-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-1-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-1-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-1-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-1-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-1-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-1-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-1.png" data-fancybox="group_3538"></a></div><div class="cell" data-lazy="false" aria-selected="false" style="position: absolute; left: 103%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-2.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-2.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-2-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-2-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-2-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-2-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-2-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-2-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-2-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-2.png" data-fancybox="group_3538"></a></div><div class="cell" data-lazy="false" aria-selected="false" style="position: absolute; left: 206%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-3.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-3.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-3-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-3-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-3-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-3-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-3-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-3-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-3-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-3.png" data-fancybox="group_3538"></a></div><div class="cell is-selected" data-lazy="false" aria-selected="true" style="position: absolute; left: 309%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-4.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-4.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-4-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-4-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-4-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-4-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-4-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-4-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-4-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-4.png" data-fancybox="group_3538"></a></div><div class="cell" data-lazy="false" aria-selected="false" style="position: absolute; left: 412%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-5.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-5.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-5-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-5-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-5-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-5-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-5-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-5-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-5-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-5.png" data-fancybox="group_3538"></a></div><div class="cell" data-lazy="false" aria-selected="false" style="position: absolute; left: 514.99%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-6.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-6.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-6-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-6-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-6-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-6-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-6-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-6-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-6-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-6.png" data-fancybox="group_3538"></a></div><div class="cell" data-lazy="false" aria-selected="false" style="position: absolute; left: 617.99%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-7.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-7.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-7-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-7-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-7-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-7-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-7-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-7-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-7-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-7.png" data-fancybox="group_3538"></a></div><div class="cell" data-lazy="false" aria-selected="false" style="position: absolute; left: 720.99%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-9.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-9.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-9-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-9-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-9-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-9-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-9-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-9-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-9-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-9.png" data-fancybox="group_3538"></a></div><div class="cell" data-lazy="false" aria-selected="false" style="position: absolute; left: 823.99%;"><img width="500" height="500" src="https://egfwd.com/wp-content/uploads/2020/05/test-10.png" class="skip-lazy attachment-full" alt="" loading="lazy" srcset="https://egfwd.com/wp-content/uploads/2020/05/test-10.png 500w, https://egfwd.com/wp-content/uploads/2020/05/test-10-300x300.png 300w, https://egfwd.com/wp-content/uploads/2020/05/test-10-150x150.png 150w, https://egfwd.com/wp-content/uploads/2020/05/test-10-100x100.png 100w, https://egfwd.com/wp-content/uploads/2020/05/test-10-140x140.png 140w, https://egfwd.com/wp-content/uploads/2020/05/test-10-350x350.png 350w, https://egfwd.com/wp-content/uploads/2020/05/test-10-24x24.png 24w, https://egfwd.com/wp-content/uploads/2020/05/test-10-36x36.png 36w" sizes="(max-width: 500px) 100vw, 500px"><a class="entire-slide-link" href="https://egfwd.com/wp-content/uploads/2020/05/test-10.png" data-fancybox="group_3538"></a></div></div></div><ol class="flickity-page-dots"><li class="dot" aria-label="Page dot 1"></li><li class="dot" aria-label="Page dot 2"></li><li class="dot" aria-label="Page dot 3"></li><li class="dot is-selected" aria-label="Page dot 4" aria-current="step"></li><li class="dot" aria-label="Page dot 5"></li><li class="dot" aria-label="Page dot 6"></li><li class="dot" aria-label="Page dot 7"></li><li class="dot" aria-label="Page dot 8"></li><li class="dot" aria-label="Page dot 9"></li></ol></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="built-by-riders" data-column-margin="default" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="row-bg using-bg-color" style="background-color: #ffdf6a; "></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col has-animation no-extra-padding instance-26" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="fade-in" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div id="fws_601e7f3a78f64" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-lg vc_hidden-md wpb_column column_container vc_column_container col child_column no-extra-padding instance-27" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="divider-wrap" data-alignment="default"><div style="height: 30px;" class="divider"></div></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1590011808034">
+<div class="wpb_wrapper">
+<h2 style="line-height: 55px;">JOIN THE LARGEST COMMUNITY AND NETWORK OF FREELANCERS IN EGYPT!</h2>
+</div>
+</div>
+<div id="fws_601e7f3a7906a" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section  vc_custom_1587475244339   " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column no-extra-padding instance-28" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
+<div class="wpb_wrapper">
+<p style="line-height: 25px; text-align: justify;">This is a lifetime opportunity to build and sharpen your tech and freelancing skills. This program is your gateway towards learning and earning successful gigs. Learn &amp; Earn!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div id="fws_601e7f3a791db" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 5%; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-sm vc_hidden-xs wpb_column column_container vc_column_container col child_column padding-3-percent instance-29" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<a class="nectar-button jumbo regular extra-color-3  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp regular-button _mPS2id-h animated" style="color: rgb(0, 0, 0); visibility: visible;" target="_blank" href="#lvl" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>ENROLL NOW!</span></a>
+</div>
+</div>
+</div>
+</div></div><div id="fws_601e7f3a792cd" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section    " style="padding-top: 5%; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-12 vc_hidden-lg vc_hidden-md wpb_column column_container vc_column_container col child_column padding-3-percent instance-30" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<a class="nectar-button large regular extra-color-3  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp regular-button animated _mPS2id-h" style="color: rgb(0, 0, 0); visibility: visible;" target="_blank" href="#lvl" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>ENROLL NOW!</span></a>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding instance-31" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="img-with-aniamtion-wrap " data-max-width="125%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="fade-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy " data-delay="0" height="1200" width="1600" data-animation="fade-in" src="https://egfwd.com/wp-content/uploads/2020/04/web.png" alt="" srcset="https://egfwd.com/wp-content/uploads/2020/04/web.png 1600w, https://egfwd.com/wp-content/uploads/2020/04/web-300x225.png 300w, https://egfwd.com/wp-content/uploads/2020/04/web-1024x768.png 1024w, https://egfwd.com/wp-content/uploads/2020/04/web-768x576.png 768w, https://egfwd.com/wp-content/uploads/2020/04/web-1536x1152.png 1536w" sizes="(min-width: 1450px) 75vw, (min-width: 1000px) 85vw, 100vw">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_601e7f3a799bd" data-column-margin="default" data-midnight="dark" data-top-percent="5%" data-bottom-percent="3%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section " style="padding-top: 32.15px; padding-bottom: 19.29px;"><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="true"><div class="inner-wrap using-image"><div class="row-bg using-image" style="background-image: url(https://egfwd.com/wp-content/uploads/2020/04/dev-scaled.jpg); background-position: left top; background-repeat: no-repeat; "></div></div><div class="row-bg-overlay" style="background-color:#ffffff;  opacity: 0.95; "></div></div><div class="col span_12 dark center">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding instance-32" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-split-heading markup-generated" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="true" style="font-size: 25px; line-height: 27px;"><h2><span><span class="inner">fwd</span></span> <span><span class="inner">in</span></span> <span><span class="inner">numbers</span></span> </h2></div><div id="fws_601e7f3a79b6c" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row inner_row standard_section  vc_custom_1587459583224   " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+<div class="vc_col-sm-4 wpb_column column_container vc_column_container col child_column padding-4-percent instance-33" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-milestone " data-ms-align="default"> <div class="number default" data-number-size="62" style="font-size: 62px; line-height: 62px;"><h2><span>100,000</span></h2></div> <div class="subject" style="padding: 2%;">EGYPTIAN YOUTH</div> </div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-4 wpb_column column_container vc_column_container col child_column padding-4-percent instance-34" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-milestone " data-ms-align="default"> <div class="number default" data-number-size="62" style="font-size: 62px; line-height: 62px;"><h2><span>65,000</span></h2></div> <div class="subject" style="padding: 2%;">HANDS-ON-PROJECTS</div> </div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-4 wpb_column column_container vc_column_container col child_column padding-4-percent instance-35" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-milestone " data-ms-align="default"> <div class="number default" data-number-size="62" style="font-size: 62px; line-height: 62px;"><h2><span>5,700,000</span></h2></div> <div class="subject" style="padding: 2%;">UPSKILLING HOURS</div> </div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_601e7f3a79ec4" data-column-margin="default" data-midnight="dark" data-top-percent="3%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section " style="padding-top: calc(100vw * 0.03); padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="row-bg using-bg-color" style="background-color: #ffffff; "></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark center">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding instance-36" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner"><div class="column-bg-overlay-wrap" data-bg-animation="none"><div class="column-bg-overlay"></div></div>
+<div class="wpb_wrapper">
+<div class="nectar-split-heading markup-generated" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="false"><h4><span><span class="inner">Lead</span></span> <span><span class="inner">by</span></span> </h4></div><div class="img-with-aniamtion-wrap center" data-max-width="100%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="fade-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy " data-delay="0" height="176" width="244" data-animation="fade-in" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_misr-rakameya-1.png" alt="">
+</div>
+</div>
+</div>
+</div><div class="divider-wrap" data-alignment="default"><div style="height: 30px;" class="divider"></div></div><div class="nectar-split-heading markup-generated" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="false"><h4><span><span class="inner">Powered</span></span> <span><span class="inner">by</span></span> </h4></div><div class="img-with-aniamtion-wrap center" data-max-width="100%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="fade-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy " data-delay="0" height="134" width="244" data-animation="fade-in" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_1itida_final_logo_2019_eng.png" alt="">
+</div>
+</div>
+</div>
+</div><div class="divider-wrap" data-alignment="default"><div style="height: 30px;" class="divider"></div></div><div class="nectar-split-heading markup-generated" data-animation-type="line-reveal-by-space" data-animation-delay="400" data-custom-font-size="false"><h4><span><span class="inner">Managed</span></span> <span><span class="inner">by</span></span> </h4></div><div class="img-with-aniamtion-wrap center" data-max-width="100%" data-max-width-mobile="default" data-border-radius="none" data-shadow="none" data-animation="fade-in">
+<div class="inner">
+<div class="hover-wrap" data-hover-animation="none">
+<div class="hover-wrap-inner">
+<img class="img-with-animation skip-lazy " data-delay="0" height="38" width="211" data-animation="fade-in" src="https://egfwd.com/wp-content/uploads/2020/04/rsz_rsz_1rsz_1rsz_udacity-2-logo-svg-vector-3-1.png" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div id="footer-outer" data-midnight="light" data-cols="1" data-custom-color="true" data-disable-copyright="false" data-matching-section-color="true" data-copyright-line="false" data-using-bg-img="false" data-bg-img-overlay="0.8" data-full-width="false" data-using-widget-area="true" data-link-hover="default">
+<div id="footer-widgets" data-has-widgets="true" data-cols="1">
+<div class="container">
+<div class="row">
+<div class="col span_12">
+
+<div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626"><a href="https://egfwd.com/enroll-now/" data-ps2id-api="true">ENROLL NOW</a></li>
+<li id="menu-item-2753" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2561 current_page_item menu-item-2753"><a href="https://egfwd.com/web/" aria-current="page" data-ps2id-api="true">Web</a></li>
+<li id="menu-item-2751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2751"><a href="https://egfwd.com/data/" data-ps2id-api="true">Data</a></li>
+<li id="menu-item-2752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2752"><a href="https://egfwd.com/digital-marketing/" data-ps2id-api="true">Digital Marketing</a></li>
+<li id="menu-item-2949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2949"><a href="https://egfwd.com/experts/" data-ps2id-api="true">Experts</a></li>
+<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627"><a href="https://egfwd.com/about/" data-ps2id-api="true">About</a></li>
+<li id="menu-item-3113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3113"><a href="https://egfwd.com/blog/" data-ps2id-api="true">Blog</a></li>
+<li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a href="https://egfwd.com/faqs/" data-ps2id-api="true">FAQs</a></li>
+</ul></div></div> </div>
+</div>
+</div>
+</div>
+<div class="row" id="copyright" data-layout="centered">
+<div class="container">
+<div class="col span_7 col_last">
+<ul class="social">
+<li><a target="_blank" href="https://www.facebook.com/groups/egyptfwd/"><i class="fa fa-facebook"></i> </a></li> <li><a target="_blank" href="https://www.linkedin.com/company/egyptfwd/?viewAsMember=true"><i class="fa fa-linkedin"></i> </a></li> <li><a target="_blank" href="https://www.youtube.com/channel/UCeU9Ivml_DxaI4zQNaOIf3Q?view_as=subscriber"><i class="fa fa-youtube-play"></i> </a></li> <li><a target="_blank" href="https://www.instagram.com/egfwd/"><i class="fa fa-instagram"></i></a></li> </ul>
+</div>
+<div class="col span_5">
+<div class="widget">
+</div>
+<p>
+© 2020 - Egypt FWD, ALL RIGHT RESERVED. </p>
+</div>
+</div>
+</div>
+</div>
+
+
+</div> 
+<a id="to-top" class="
+	mobile-enabled	" style="bottom: 17px;"><i class="fa fa-angle-up top-icon"></i><i class="fa fa-angle-up"></i></a>
+</div></div><div id="slide-out-widget-area" class="slide-out-from-right-hover" data-dropdown-func="separate-dropdown-parent-link" data-back-txt="Back">
+<div class="inner-wrap">
+<div class="inner" data-prepend-menu-mobile="false" style="height: auto; min-height: 412px;">
+<a class="slide_out_area_close" href="#">
+<span class="close-wrap"> <span class="close-line close-line1"></span> <span class="close-line close-line2"></span> </span> </a>
+<div class="off-canvas-menu-container mobile-only">
+<ul class="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621"><a href="https://egfwd.com/enroll-now/" data-ps2id-api="true">Enroll Now</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-453"><a href="#" data-ps2id-api="true">Specializations</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2561 current_page_item menu-item-2606"><a href="https://egfwd.com/web/" aria-current="page" data-ps2id-api="true">Web</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2607"><a href="https://egfwd.com/data/" data-ps2id-api="true">Data</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2608"><a href="https://egfwd.com/digital-marketing/" data-ps2id-api="true">Digital Marketing</a></li>
+</ul>
+<span class="ocm-dropdown-arrow" style="top: 15px;"><i class="fa fa-angle-down"></i></span></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://egfwd.com/about/" data-ps2id-api="true">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2824"><a href="https://egfwd.com/experts/" data-ps2id-api="true">Experts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3112"><a href="https://egfwd.com/blog/" data-ps2id-api="true">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="https://egfwd.com/faqs/" data-ps2id-api="true">FAQs</a></li>
+<li class="menu-item wpml-ls-slot-3 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-3-ar"><a title="عربي" href="https://egfwd.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9/?lang=ar" data-ps2id-api="true"><span class="wpml-ls-native" lang="ar">عربي</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1702"><a href="https://egfwd.com/" class="menu-image-title-after menu-image-not-hovered" data-ps2id-api="true"><img width="150" height="75" alt="" loading="lazy" data-src="https://egfwd.com/wp-content/uploads/2020/12/MCIT-New-Logo--e1609161843823.png" class="menu-image menu-image-title-after ls-is-cached lazyloaded" src="https://egfwd.com/wp-content/uploads/2020/12/MCIT-New-Logo--e1609161843823.png"><noscript><img width="150" height="75"   alt="" loading="lazy" data-src="https://egfwd.com/wp-content/uploads/2020/12/MCIT-New-Logo--e1609161843823.png" class="menu-image menu-image-title-after lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="75" src="https://egfwd.com/wp-content/uploads/2020/12/MCIT-New-Logo--e1609161843823.png" class="menu-image menu-image-title-after" alt="" loading="lazy" /></noscript><span class="menu-image-title-after menu-image-title">#</span></a></li>
+</ul>
+<ul class="menu secondary-header-items">
+</ul>
+</div>
+</div>
+<div class="bottom-meta-wrap"></div></div> 
+</div><div class="slide-out-widget-area-toggle slide-out-hover-icon-effect small" data-icon-animation="simple-transform"><div> <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a> </div> </div><div id="slide-out-widget-area-bg" class="slide-out-from-right-hover dark">
+</div>
+<script>
+jQuery(".social a").on("click", function(e){
+  _tfa.push({notify: 'event', name: 'Social_Udacity', id: 1339818});
+})
+</script>
+
+<iframe height="0" width="0" style="display: none; visibility: hidden;" src="//9291910.fls.doubleclick.net/activityi;src=9291910;type=invmedia;cat=udaci00;ord=3555239792681;gtm=2wg1r0;auiddc=591005155.1611900375;~oref=https%3A%2F%2Fegfwd.com%2Fweb%2F%3Futm_source%3Dsendgrid%26utm_medium%3Demail%26utm_campaign%3Dweb-FWD?"></iframe><script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('o4rkj', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=o4rkj&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=o4rkj&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+
+
+<script type="text/javascript">
+_linkedin_partner_id = "2484298";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2484298&fmt=gif" />
+</noscript>
+
+<script type="text/javascript">
+_linkedin_partner_id = "2497402";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2497402&fmt=gif" />
+</noscript>
+
+<script type="text/javascript">
+_linkedin_partner_id = "2649946";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2649946&fmt=gif" />
+</noscript>
+
+<script type="text/javascript">
+_linkedin_partner_id = "3085881";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3085881&fmt=gif" />
+</noscript>
+
+<noscript><iframe 
+height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-5777DRW" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+
+<script type="text/html" id="wpb-modifications"></script><noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=549321859355154&ev=PageView&noscript=1&cd[eventID]=pv_1612611386" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=549321859355154&ev=GeneralEvent&noscript=1&cd[post_type]=page&cd[post_id]=2561&cd[content_name]=Web" alt="facebook_pixel"></noscript>
+<link rel="stylesheet" id="vc_animate-css-css" href="https://egfwd.com/wp-content/plugins/js_composer_salient/assets/lib/bower/animate-css/animate.min.css?ver=6.1" type="text/css" media="all">
+<link rel="stylesheet" id="nectar-flickity-css" href="https://egfwd.com/wp-content/themes/salient/css/plugins/flickity.css?ver=11.0.4" type="text/css" media="all">
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/egfwd.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2" id="contact-form-7-js"></script>
+<script type="text/javascript" id="page-scroll-to-id-plugin-script-js-extra">
+/* <![CDATA[ */
+var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[href*='#']:not([href='#'])","autoSelectorMenuLinks":"true","excludeSelector":"a[href^='#tab-'], a[href^='#tabs-'], a[data-toggle]:not([data-toggle='tooltip']), a[data-slide], a[data-vc-tabs], a[data-vc-accordion], a.screen-reader-text.skip-link","scrollSpeed":800,"autoScrollSpeed":"true","scrollEasing":"easeInOutQuint","scrollingEasing":"easeOutQuint","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","autoCorrectScroll":"false","layout":"vertical","offset":0,"dummyOffset":"false","highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"scrollToHashUseElementData":"true","scrollToHashRemoveUrlHash":"false","disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","normalizeAnchorPointTargets":"false","encodeLinks":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.6.9" id="page-scroll-to-id-plugin-script-js"></script>
+<script type="text/javascript" id="salient-social-js-extra">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/egfwd.com\/wp-admin\/admin-ajax.php","postID":"2561","rooturl":"https:\/\/egfwd.com","loveNonce":"d0274baca8"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/salient-social/js/salient-social.js?ver=1.1" id="salient-social-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.7.0" id="smush-lazy-load-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/jquery.easing.js?ver=1.3" id="jquery-easing-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/jquery.mousewheel.js?ver=3.1.13" id="jquery-mousewheel-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/priority.js?ver=11.0.4" id="nectar_priority-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/transit.js?ver=0.9.9" id="nectar-transit-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/waypoints.js?ver=4.0.1" id="nectar-waypoints-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/modernizr.js?ver=2.6.2" id="modernizer-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/salient-portfolio/js/third-party/imagesLoaded.min.js?ver=4.1.4" id="imagesLoaded-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/hoverintent.js?ver=1.9" id="hoverintent-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/jquery.fancybox.min.js?ver=3.3.1" id="fancyBox-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/superfish.js?ver=1.4.8" id="superfish-js"></script>
+<script type="text/javascript" id="nectar-frontend-js-extra">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/egfwd.com\/wp-admin\/admin-ajax.php","postID":"2561","rooturl":"https:\/\/egfwd.com","disqusComments":"false","loveNonce":"d0274baca8","mapApiKey":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/init.js?ver=11.0.4" id="nectar-frontend-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/salient-core/js/third-party/touchswipe.min.js?ver=1.0" id="touchswipe-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/select2.min.js?ver=3.5.2" id="select2-js"></script>
+<script type="text/javascript" id="fca_pc_client_js-js-extra">
+/* <![CDATA[ */
+var fcaPcEvents = [{"triggerType":"post","trigger":["all"],"parameters":{"content_name":"{post_title}","content_type":"product","content_ids":"{post_id}"},"event":"ViewContent","delay":"0","scroll":"0","apiAction":"track","ID":"a21655d0-a604-4a7c-b7a6-87d7857413e9"}];
+var fcaPcDebug = {"debug":""};
+var fcaPcPost = {"title":"Web","type":"page","id":"2561","categories":[],"utm_support":"","user_parameters":"","edd_delay":"0","woo_delay":"0","edd_enabled":"","woo_enabled":"","video_enabled":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=2.5.4" id="fca_pc_client_js-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/facebook-conversion-pixel/video.compiled.js?ver=5.5.3" id="fca_pc_video_js-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-includes/js/wp-embed.min.js?ver=5.5.3" id="wp-embed-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/plugins/js_composer_salient/assets/js/dist/js_composer_front.min.js?ver=6.1" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://egfwd.com/wp-content/themes/salient/js/third-party/flickity.min.js?ver=2.1.2" id="flickity-js"></script>
+
+
+
+
+<iframe height="0" width="0" style="display: none; visibility: hidden;" src="//9291910.fls.doubleclick.net/activityi;src=9291910;type=invmedia;cat=udaci0;ord=4564996835618;gtm=2wg1r0;auiddc=591005155.1611900375;~oref=https%3A%2F%2Fegfwd.com%2Fweb%2F%3Futm_source%3Dsendgrid%26utm_medium%3Demail%26utm_campaign%3Dweb-FWD?"></iframe><script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=1.1.0&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=o4rkj&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fegfwd.com%2Fweb%2F%3Futm_source%3Dsendgrid%26utm_medium%3Demail%26utm_campaign%3Dweb-FWD" type="text/javascript"></script><iframe height="0" width="0" style="display: none; visibility: hidden;" src="//9291910.fls.doubleclick.net/activityi;src=9291910;type=invmedia;cat=udaci0;ord=2639330280269;gtm=2wg1r0;auiddc=591005155.1611900375;~oref=https%3A%2F%2Fegfwd.com%2Fweb%2F%3Futm_source%3Dsendgrid%26utm_medium%3Demail%26utm_campaign%3Dweb-FWD?"></iframe><img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3085881&amp;conversionId=3330444&amp;fmt=gif"></body></html>
